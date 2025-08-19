@@ -1,6 +1,6 @@
 from setuptools import setup
 
-APP = ['main.py']  # Your entry point script
+APP = ['Photo organizer.py']  # Your entry point script
 OPTIONS = {
     'argv_emulation': True,
     'iconfile': 'tri.icns',  # Custom icon
